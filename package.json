@@ -1,0 +1,25 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "twitterbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliuzzi/Twitter-Bot.git"
+  },
+  "keywords": [
+    "empty"
+  ],
+  "author": "angelica liuzzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliuzzi/Twitter-Bot/issues"
+  },
+  "homepage": "https://github.com/aliuzzi/Twitter-Bot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
